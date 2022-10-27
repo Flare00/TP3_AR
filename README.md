@@ -2,6 +2,8 @@
 
 TP pour l'UE de Vision, Réalité virtuelle et augmentée
 
+Réalisé avec Unity 2022.1.16f1.
+
 Ce TP est consitué de trois(3) sous-TP : 
 - AR avec Vuforia
 - AR avec XR
