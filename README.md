@@ -7,8 +7,8 @@ Réalisé avec Unity 2022.1.16f1.
 Ce TP est consitué de trois(3) sous-TP : 
 - AR avec Vuforia
 - AR avec XR
-- VR
+- VR (non réalisé)
 
 Le TP AR avec Vuforia manque le fichier compressé de l'api Vuforia car trop lourd pour Github standard.
 
-Vous pourrez trouver l'apk du TP AR avec XR et l'exécutable du TP VR dans les "Releases".
+Vous pourrez trouver l'apk du TP AR avec XR dans les "Releases".
