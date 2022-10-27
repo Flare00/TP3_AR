@@ -8,3 +8,5 @@ Ce TP est consitué de trois(3) sous-TP :
 - VR
 
 Le TP AR avec Vuforia manque le fichier compressé de l'api Vuforia car trop lourd pour Github standard.
+
+Vous pourrez trouver l'apk du TP AR avec XR et l'exécutable du TP VR dans les "Releases".
